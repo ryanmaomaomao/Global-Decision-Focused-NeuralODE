@@ -42,3 +42,15 @@ This repository accompanies the notebook `synthetic_generator_deployment_problem
 
 - `synthetic_generator_deployment_problem_single_warehouse.ipynb` – Primary end-to-end experiment.
 
+
+If you find this work useful, please cite the paper:
+
+```bibtex
+@article{chen2025gdfnode,
+  title   = {Global-Decision-Focused Neural ODEs for Proactive Grid Resilience Management},
+  author  = {Chen, Shuyi (Ryan) and Fioretto, Nando and Qiu, Feng and Zhu, Shixiang (Woody)},
+  journal = {arXiv preprint arXiv:2505.11627},
+  year    = {2025}
+}
+
+
