@@ -7,7 +7,7 @@ This repository accompanies the notebook `synthetic_generator_deployment_problem
 - **Dispatch optimization** solves a generator transportation problem with both differentiable convex layers and a Gurobi-powered baseline, and compares them with a greedy online policy and the ground-truth optimum.
 - **Evaluation tooling** reports total/regret costs, SAIDI-style metrics, and produces publication-quality plots for outages, generator allocations, and cost breakdowns.
 
-### Notebook Roadmap
+### Notebook Table of Contents
 
 - **0. Setup** – Optional `pip install` cells for `torchdiffeq`, `cvxpylayers`, `diffcp`, and `gurobipy`.
 - **1. Synthetic Data Generation** – Defines population parameters, creates the true SIR dynamics (`TrueSIRModel`), and visualizes clean/noisy outbreaks.
@@ -56,6 +56,4 @@ pip install -r requirements.txt  # or pip install torchdiffeq==0.2.4 cvxpylayers
 ### Repository Layout
 
 - `synthetic_generator_deployment_problem_single_warehouse.ipynb` – Primary end-to-end experiment.
-- `GDF-ODE/` – Supporting scripts for generalized differentiable forecasting (used by the notebook).
-- Additional notebooks (e.g., `indianapolis_*`, `synthetic_gdp_multi_warehouse.ipynb`) demonstrate multi-warehouse and real-world scenarios.
 
