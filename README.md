@@ -4,7 +4,7 @@ This repository accompanies the paper:
 
 > **Global-Decision-Focused Neural ODEs for Proactive Grid Resilience Management**  
 > Shuyi (Ryan) Chen, Nando Fioretto, Feng Qiu, Shixiang (Woody) Zhu  
-> [arXiv:2505.11627](https://arxiv.org/abs/2505.11627)
+> [arXiv:2502.18321](https://arxiv.org/abs/2502.18321)
 
 ## Synthetic Generator Deployment (Single Warehouse)
 
