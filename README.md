@@ -16,6 +16,7 @@ If you find this work useful, please cite the paper:
   journal = {arXiv preprint arXiv:2505.11627},
   year    = {2025}
 }
+```
 
 ## Synthetic Generator Deployment (Single Warehouse)
 
