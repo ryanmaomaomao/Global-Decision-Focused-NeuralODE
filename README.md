@@ -1,3 +1,11 @@
+# Global-Decision-Focused Neural ODEs for Proactive Grid Resilience Management
+
+This repository accompanies the paper:
+
+> **Global-Decision-Focused Neural ODEs for Proactive Grid Resilience Management**  
+> Shuyi (Ryan) Chen, Nando Fioretto, Feng Qiu, Shixiang (Woody) Zhu  
+> [arXiv:2505.11627](https://arxiv.org/abs/2505.11627)
+
 ## Synthetic Generator Deployment (Single Warehouse)
 
 This repository accompanies the notebook `synthetic_generator_deployment_problem_single_warehouse.ipynb`. The notebook builds a fully differentiable pipeline that couples epidemic-style outage forecasting with generator deployment planning for a small set of cities supplied by a single mobile generator warehouse.
