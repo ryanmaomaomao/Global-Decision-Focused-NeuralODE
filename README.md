@@ -6,6 +6,17 @@ This repository accompanies the paper:
 > Shuyi Chen, Nando Fioretto, Feng Qiu, Shixiang (Woody) Zhu  
 > [arXiv:2502.18321](https://arxiv.org/abs/2502.18321)
 
+
+If you find this work useful, please cite the paper:
+
+```bibtex
+@article{chen2025gdfnode,
+  title   = {Global-Decision-Focused Neural ODEs for Proactive Grid Resilience Management},
+  author  = {Chen, Shuyi and Fioretto, Nando and Qiu, Feng and Zhu, Shixiang (Woody)},
+  journal = {arXiv preprint arXiv:2505.11627},
+  year    = {2025}
+}
+
 ## Synthetic Generator Deployment (Single Warehouse)
 
 This repository accompanies the notebook `synthetic_generator_deployment_problem_single_warehouse.ipynb`. The notebook builds a fully differentiable pipeline that couples epidemic-style outage forecasting with generator deployment planning for a small set of cities supplied by a single mobile generator warehouse.
@@ -49,16 +60,4 @@ This repository accompanies the notebook `synthetic_generator_deployment_problem
 ### Repository Layout
 
 - `synthetic_generator_deployment_problem_single_warehouse.ipynb` – Primary end-to-end experiment.
-
-
-If you find this work useful, please cite the paper:
-
-```bibtex
-@article{chen2025gdfnode,
-  title   = {Global-Decision-Focused Neural ODEs for Proactive Grid Resilience Management},
-  author  = {Chen, Shuyi and Fioretto, Nando and Qiu, Feng and Zhu, Shixiang (Woody)},
-  journal = {arXiv preprint arXiv:2505.11627},
-  year    = {2025}
-}
-
 
