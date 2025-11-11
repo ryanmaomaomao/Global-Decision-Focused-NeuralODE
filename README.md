@@ -59,5 +59,3 @@ pip install -r requirements.txt  # or pip install torchdiffeq==0.2.4 cvxpylayers
 - `GDF-ODE/` – Supporting scripts for generalized differentiable forecasting (used by the notebook).
 - Additional notebooks (e.g., `indianapolis_*`, `synthetic_gdp_multi_warehouse.ipynb`) demonstrate multi-warehouse and real-world scenarios.
 
-Questions or contributions are welcome through GitHub issues or pull requests.
-
